@@ -65,11 +65,11 @@ After the course, students are able to:
 | Mar 23   | Redis
 | Mar 28   | [Deployment strategies](https://docs.google.com/presentation/d/1Dg7x-70LT5KZ5GfojpzByhDa3abt1_mEdSmI8C2ojRE/edit?usp=sharing)
 | Mar 30   | Deployment workshop
-| Apr 4    | Monitoring
+| Apr 4    | Monitoring(https://github.com/CSC-DevOps/Monitoring)
 | Apr 6    | Monitoring workshop
 | Apr 11   | Incidents
 | Apr 18   | Chao engineering/feature experimentation | | [M3](Project/M3.md)
-| Apr 20   | Chao experiment
+| Apr 20   | Chao experiment(https://github.com/ssmirr/Chaos)
 | Apr 25   | No class
 | May 4    | [Final Exam](Project/F0.md)        |            |                   |
 
